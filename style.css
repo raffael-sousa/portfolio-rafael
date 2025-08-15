@@ -1,0 +1,258 @@
+:root {
+  background-color: #000000;
+  font-family: "Asap", sans-serif;
+}
+
+nav {
+  margin: auto;
+  margin-top: 30px;
+  font-size: 20px;
+  border: solid;
+  border-radius: 9999px;
+  width: 1300px;
+  padding: 20px;
+  background-color: #444444;
+}
+
+.home, .about, .projects, .contact {
+  margin-right: 30px;
+}
+
+.download {
+  border-radius: 999px;
+  padding: 10px;
+  margin: 0 300px 0 10px;
+  background-color: #000000;
+}
+
+a {
+  color: #FFFFFF;
+  margin-left: 40px;
+  margin-right: 40px;
+  text-decoration: none;
+}
+
+h1 {
+  margin: 170px 0px 0px 170px;
+  font-size: 50px;
+  color: #FFFFFF;
+}
+
+.position {
+  color: #444444;
+}
+
+.fotorafael {
+  display: flex;
+  position: absolute;
+  margin-left: 790px;
+  margin-top: 88px;
+  border-radius: 9999px;
+}
+
+.eclipse {
+  display: flex;
+  position: absolute;
+  margin-left: 720px;
+  margin-top: 10px;
+  z-index: -1;
+}
+
+.bemvindo {
+  color: #FFFFFF;
+  margin-top: 40px;
+  width: 600px;
+  margin-left: 90px;
+  text-align: justify;
+}
+
+.hireme {
+  color:#FFFFFF;
+  margin-top: 80px;
+  margin-left: 100px;
+  margin-bottom: 60px;
+  background-color: #444444;
+  width: 140px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 4px;
+}
+
+.hireme:hover {
+  border: solid #FFFFFF;
+}
+
+.email {
+  display: flex;
+  position: absolute;
+  margin: 3px 0px 0px 200px;
+  border-radius: 0px;
+}
+
+.instagram {
+  display: flex;
+  position: absolute;
+  margin: 0px 0px 0px 340px;
+  border-radius: 0px;
+}
+
+.linkedin {
+  display: flex;
+  position: absolute;
+  margin: 0px 0px 0px 480px;
+  border-radius: 0px;
+}
+
+.github {
+  display: flex;
+  position: absolute;
+  margin: 0px 0px 0px 620px;
+  border-radius: 0px;
+}
+
+.about { /*seçao */
+  color: #FFFFFF;
+  margin: auto;
+  width: 1300px;
+  height: 300px;
+  background-color: #444444 ;
+  border-radius: 20px;
+}
+
+.aboutme { /* class */
+  color: #FFFFFF;
+  font-size: 35px;
+  padding-left: 20px;
+  padding-top: 20px;
+  margin-top: 150px;
+}
+
+.p1 {
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: justify;
+}
+
+.education { /*seçao */
+  color: #FFFFFF;
+  background-color: #444444 ;
+  border-radius: 20px;
+  width: 600px;
+  height: 200px;
+  text-align: justify;
+  padding-right: 20px;
+  display: block;
+  position: absolute;
+  margin: 20px 20px 20px 50px;
+}
+
+.educacao, .certificados { /* class */
+  color: #FFFFFF;
+  font-size: 25px;
+  padding-left: 20px;
+  padding-top: 5px;
+}
+
+.certification {
+  color: #FFFFFF;
+  background-color: #444444 ;
+  border-radius: 20px;
+  width: 600px;
+  height: 200px;
+  text-align: justify;
+  padding-right: 20px;
+  display: block;
+  position: absolute;
+  margin: 20px 20px 20px 730px;
+}
+
+.skills {
+  color: #FFFFFF;
+  margin: 250px auto 100px auto;
+  width: 1300px;
+  height: 350px;
+  background-color: #444444 ;
+  border-radius: 20px;
+}
+
+.tech {
+  padding-left: 20px;
+  padding-top: 20px;
+  margin-top: 150px;
+}
+
+.html {
+  display: flex;
+  position: absolute;
+  margin: auto;
+  margin: 20px 20px 20px 5px;
+} 
+
+.css {
+  display: flex;
+  position: absolute;
+  margin: 20px 20px 20px 220px;
+} 
+
+.javascript {
+  display: flex;
+  position: absolute;
+  margin: 20px 20px 20px 440px;
+} 
+
+.vscode {
+  display: flex;
+  position: absolute;
+  margin: 20px 20px 20px 660px;
+} 
+
+.figma {
+  display: flex;
+  position: absolute;
+  margin: 20px 20px 20px 880px;
+} 
+
+.gitimg {
+  display: flex;
+  position: absolute;
+  margin: 20px 20px 20px 1095px;
+} 
+
+.myprojects {
+  color: #FFFFFF;
+  font-size: 35px;
+  margin-left: 55px;
+}
+
+.devprojects {
+  background-color: #444444;
+  border-radius: 20px;
+  width: 1300px;
+  height: 350px;
+  margin: auto;
+}
+
+.projetos {
+  font-size: 22px;
+  padding: 20px;
+  color: #FFFFFF;
+}
+
+.receitaimg, .devportfolio, 
+.busan {
+  width: 340px;
+  height: 215px;
+  border-radius: 20px;
+}
+
+.receitaimg:hover {
+  border: #FFFFFF solid;
+}
+
+.devportfolio:hover {
+  border: #FFFFFF solid;
+}
+
+.busan:hover {
+  border: #FFFFFF solid;
+}
