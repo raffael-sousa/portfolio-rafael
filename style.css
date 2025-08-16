@@ -257,17 +257,17 @@ h1 {
 
 .mail {
   color: #FFFFFF;
-  margin-left: 60px;
-  margin-right: 150px;
-  width: 1250px;
+  margin: 0px 50px 20px;
+  width: max-content;
   background-color: #444444;
   border-radius: 20px;
   padding: 30px;
 }
 
 .telefone {
-  color: #FFFFFF;
-  margin-left: 150px;
+ color: #FFFFFF;
+  margin: 0px 50px;
+  width: max-content;
   background-color: #444444;
   border-radius: 20px;
   padding: 30px;
